@@ -28,7 +28,7 @@ A responsive, interactive credit card form built with **React**, **TypeScript**,
 
 ## 🚀 Preview
 
-![Screenshot](./public/preview.png)
+![Check out live page](http://interactive-assignment.netlify.app)
 
 ---
 
